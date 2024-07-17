@@ -36,7 +36,7 @@ class FormsTest(TestCase):
 
     def test_driver_creation_form(self):
         form_data = {
-            "username": "new_driver",
+            "username": "new_river",
             "password1": "Test123Driver",
             "password2": "Test123Driver",
             "license_number": "VLA64930",
